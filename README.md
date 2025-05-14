@@ -28,6 +28,7 @@
 📊 **GitHub Stats:**
 
 <p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ramazan-kilic&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api?username=Ramazan-kilic&show_icons=true&locale=en" alt="Ramazan-kilic" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ramazan-kilic&show_icons=true&locale=en&layout=compact" alt="Ramazan-kilic" />
 </p>
