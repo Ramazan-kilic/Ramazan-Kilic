@@ -28,8 +28,8 @@
 📊 **GitHub Stats:**
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ramazankilic&show_icons=true&locale=en" alt="ramazankilic" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ramazankilic&show_icons=true&locale=en&layout=compact" alt="ramazankilic" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ramazan-kilic&show_icons=true&locale=en" alt="Ramazan-kilic" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ramazan-kilic&show_icons=true&locale=en&layout=compact" alt="Ramazan-kilic" />
 </p>
 
 ### 📊 GitHub İstatistiklerim
