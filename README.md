@@ -32,15 +32,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ramazan-kilic&show_icons=true&locale=en&layout=compact" alt="Ramazan-kilic" />
 </p>
 
-### 📊 GitHub İstatistiklerim
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ramazan-Kilic&show_icons=true&theme=github_dark)
-
-![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramazan-Kilic&layout=compact&theme=github_dark)
-
-![Katkı Grafiği](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ramazan-Kilic&theme=github_dark)
-
-
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/ramazan-kilic)](https://linkedin.com/in/ramazan-kilic)
 <!--
 **Ramazan-kilic/Ramazan-Kilic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
